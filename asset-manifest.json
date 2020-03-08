@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Chainruledydx/Movie_app_2019/static/css/main.41f6a8a2.chunk.css",
+    "main.js": "/Chainruledydx/Movie_app_2019/static/js/main.e3e860cb.chunk.js",
+    "main.js.map": "/Chainruledydx/Movie_app_2019/static/js/main.e3e860cb.chunk.js.map",
+    "runtime-main.js": "/Chainruledydx/Movie_app_2019/static/js/runtime-main.18f711a8.js",
+    "runtime-main.js.map": "/Chainruledydx/Movie_app_2019/static/js/runtime-main.18f711a8.js.map",
+    "static/js/2.137c9ea0.chunk.js": "/Chainruledydx/Movie_app_2019/static/js/2.137c9ea0.chunk.js",
+    "static/js/2.137c9ea0.chunk.js.map": "/Chainruledydx/Movie_app_2019/static/js/2.137c9ea0.chunk.js.map",
+    "index.html": "/Chainruledydx/Movie_app_2019/index.html",
+    "precache-manifest.7d759c936e0e439c3a34e281fe200e92.js": "/Chainruledydx/Movie_app_2019/precache-manifest.7d759c936e0e439c3a34e281fe200e92.js",
+    "service-worker.js": "/Chainruledydx/Movie_app_2019/service-worker.js",
+    "static/css/main.41f6a8a2.chunk.css.map": "/Chainruledydx/Movie_app_2019/static/css/main.41f6a8a2.chunk.css.map",
+    "static/js/2.137c9ea0.chunk.js.LICENSE.txt": "/Chainruledydx/Movie_app_2019/static/js/2.137c9ea0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18f711a8.js",
+    "static/js/2.137c9ea0.chunk.js",
+    "static/css/main.41f6a8a2.chunk.css",
+    "static/js/main.e3e860cb.chunk.js"
+  ]
+}
