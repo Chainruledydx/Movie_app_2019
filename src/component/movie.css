@@ -1,0 +1,39 @@
+.movie {
+  width: 600px;
+  height: 420px;
+  border: 3px solid red;
+  border-radius: 10%;
+  background-color: rgb(200, 200, 200);
+  display: inline-block;
+  margin: 20px;
+}
+
+.movie img {
+  position: relative;
+  margin: 20px;
+  display: inline-block;
+}
+
+.movie__data {
+  display: inline-block;
+  width: 300px;
+}
+
+.movie__title {
+  font-weight: 600;
+  font-size: 26px;
+}
+
+.genres {
+  text-align: left;
+  opacity: 0;
+  transition: opacity 1s, transform 1s;
+}
+
+.genres:hover {
+  opacity: 1;
+}
+
+.movie__summary {
+  text-align: right;
+}
